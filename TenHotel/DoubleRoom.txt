@@ -1,0 +1,10 @@
+true 6001
+false 6002
+false 6003
+false 6004
+false 6005
+false 6006
+false 6007
+false 6008
+false 6009
+false 6010
