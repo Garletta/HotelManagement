@@ -32,4 +32,11 @@
  
  ## 3、程序执行例图
  
+ ![酒店管理系统主界面](https://github.com/Garletta/HotelManagement/raw/master/Images/A.png)  
+ ![订房界面](https://github.com/Garletta/HotelManagement/raw/master/Images/B.png)  
+ ![付款界面](https://github.com/Garletta/HotelManagement/raw/master/Images/C.png)  
+ ![成功预订反馈](https://github.com/Garletta/HotelManagement/raw/master/Images/D.png)  
+ ![入住申请界面](https://github.com/Garletta/HotelManagement/raw/master/Images/E.png)  
+ ![订单查询并入住](https://github.com/Garletta/HotelManagement/raw/master/Images/F.png)  
+ ![退房界面](https://github.com/Garletta/HotelManagement/raw/master/Images/G.png)  
  
